@@ -3,7 +3,7 @@ import uuid
 import urllib
 import urllib2
 import httplib
-import json
+import simplejson as json
 
 
 class Auth(object):
